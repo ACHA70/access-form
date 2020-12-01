@@ -1,0 +1,25 @@
+body {
+    font-size: 40px;
+    background-color: chartreuse;
+}
+.image {
+    border-radius: 15%;
+    float: inline-end;
+    display: inline;
+    border-left: 50px;
+}
+.container {
+    text-align: center;
+    justify-content: space-between;
+    font-weight: bold;
+}
+button[type="login"]{
+    background-color: gold;
+}
+button[type="button"]{
+    background-color:blue
+}
+
+button[type="submit"]{
+    background-color: red;
+}
